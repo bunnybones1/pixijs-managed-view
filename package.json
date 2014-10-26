@@ -1,0 +1,33 @@
+{
+  "name": "pixijs-managed-view",
+  "version": "1.0.0",
+  "description": "A managed view for pixijs",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {
+    "input-resize": "^1.1.0"
+  },
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "pixijs",
+    "view"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/pixijs-managed-view.git"
+  },
+  "homepage": "https://github.com/bunnybones1/pixijs-managed-view",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/pixijs-managed-view/issues"
+  }
+}
